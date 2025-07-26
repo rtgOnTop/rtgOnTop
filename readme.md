@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🧪 I’m deeply interested in **chemistry, neuroscience, and **
+- 🧪 I’m deeply interested in **chemistry, neuroscience, and Cyber sec**
 - 💻 I code in **Python, Golang, Asm (still studying), and C**, I play games and study as my hobby
 - 🧩 I love solving **puzzles**, exploring **time, the mind, and reality**
 - 📚 Currently learning **organic chemistry, and more cyber sec**
