@@ -1,4 +1,7 @@
-# 👋 Hey there! I'm Ricky Howard Stone, contact me via phone number, 7173051840, I am 33 going on 34 🥳
+# 👋 Hey there! I'm Ricky Howard Stone
+
+- contact me via phone number, 7173051840,
+- I am 33 going on 34 🥳
 
 🎯 Focused on learning, building, and sharing — one line of code at a time.
 
