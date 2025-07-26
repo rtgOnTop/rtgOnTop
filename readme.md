@@ -35,5 +35,4 @@
 
 - 💬 [Ask me anything](https://github.com/rtgOnTop/rtgOnTop/issues)
 - 🧪 Let’s experiment and build the future together!
-- contact me via phone number, (714) 335-9820,
-- I am 33 going on 34 🥳
+
