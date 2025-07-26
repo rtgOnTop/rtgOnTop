@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ricky Howard Stone
+# 👋 Hey there! I'm Rtg
 
 
 🎯 Focused on learning, building, and sharing — one line of code at a time.
