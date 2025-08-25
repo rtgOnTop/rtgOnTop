@@ -16,6 +16,9 @@
 - 🍪 `GoGrabber`: My first golang FUD 
 - 🌱 `NimRunner`: Makes running a nim file more easier then having to conistiently type 2 long commands every time you run a file
 - 🔬 `BPscanner`: simple python port scanner
+- 👀 `Fex` : Ctf helper (WIP)
+- 🥷 `Bloodline finder` : its in the name (WIP)
+- 🤓 `opfex` : tries to maintain good opsec on windows machines (WIP)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Golang-3776AB?style=flat&logo=python&logoColor=white)
